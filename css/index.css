@@ -1,0 +1,32 @@
+.btn{
+    transition: 0.3s ease-in-out;
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+}
+a{
+    transition: 0.3s ease-in-out;
+}
+a:hover{
+    color: blue;
+}
+.card{
+    transition: 0.3s ease-in-out;
+}
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.story .card{
+    transition: 0.3s ease-in-out;
+}
+.story .card:hover{
+    height: 150px;
+    padding: 25px 0;
+}
+.brads img{
+    transition: 0.3s ease-in-out;
+}
+.brads img:hover{
+    transform: scale(1.1);
+}
